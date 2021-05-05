@@ -43,7 +43,7 @@ $(function ($) {
 
         // Typed js
         $(".typed").typed({
-            strings: ["Web Designer.", "Frontend Developer.", "Hybrid App Developer.", "UI/UX Designer."],
+            strings: ["Frontend Developer.", "Web Designer.", "Hybrid App Developer."],
             // Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
             stringsElement: null,
             // typing speed
